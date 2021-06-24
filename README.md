@@ -4,10 +4,10 @@ This gitbook contains a guide for conducting digital signal processing practices
 
 The topics covered in this document are:
 
-* [Introduction](https://app.gitbook.com/@micros-uao/s/libro-guia/introduccion)
-* [Aspects to consider for developing DSP applications](https://app.gitbook.com/@micros-uao/s/libro-guia/el-procesamiento-digital-de-senales)
-* [Case study](https://app.gitbook.com/@micros-uao/s/libro-guia/3.casos-de-estudio)
-* [Support platform for DSP practices](https://app.gitbook.com/@micros-uao/s/libro-guia/plataforma-de-apoyo-para-las-practicas)
+* [Introduction](https://micros-uao.gitbook.io/libro-guia/introduccion)
+* [Aspects to consider for developing DSP applications](https://micros-uao.gitbook.io/libro-guia/el-procesamiento-digital-de-senales)
+* [Case study](https://micros-uao.gitbook.io/libro-guia/3.casos-de-estudio)
+* [Support platform for DSP practices](https://micros-uao.gitbook.io/libro-guia/plataforma-de-apoyo-para-las-practicas)
 
 
 
